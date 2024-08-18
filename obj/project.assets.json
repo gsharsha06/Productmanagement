@@ -6163,13 +6163,13 @@
     },
     "Product.Domain/1.0.0": {
       "type": "project",
-      "path": "F:\\Product.Domain\\Product.Domain.csproj",
-      "msbuildProject": "F:\\Product.Domain\\Product.Domain.csproj"
+      "path": "Product.Domain/Product.Domain.csproj",
+      "msbuildProject": "Product.Domain/Product.Domain.csproj"
     },
     "Product.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "F:\\Product.Infrastructure\\Product.Infrastructure.csproj",
-      "msbuildProject": "F:\\Product.Infrastructure\\Product.Infrastructure.csproj"
+      "path": "Product.Infrastructure/Product.Infrastructure.csproj",
+      "msbuildProject": "Product.Infrastructure/Product.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6222,11 +6222,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\Product.Domain\\Product.Domain.csproj": {
-              "projectPath": "F:\\Product.Domain\\Product.Domain.csproj"
+            "G:\\productmanagement\\Product.Domain\\Product.Domain.csproj": {
+              "projectPath": "G:\\productmanagement\\Product.Domain\\Product.Domain.csproj"
             },
-            "F:\\Product.Infrastructure\\Product.Infrastructure.csproj": {
-              "projectPath": "F:\\Product.Infrastructure\\Product.Infrastructure.csproj"
+            "G:\\productmanagement\\Product.Infrastructure\\Product.Infrastructure.csproj": {
+              "projectPath": "G:\\productmanagement\\Product.Infrastructure\\Product.Infrastructure.csproj"
             }
           }
         }
